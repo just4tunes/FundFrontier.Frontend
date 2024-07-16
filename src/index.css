@@ -5,3 +5,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* src/index.css */
+.hero-bg {
+    background-color: #262626;
+  }
+
+  .custom-margin {
+    margin-left: 10px;
+    margin-right: 10px;
+  }

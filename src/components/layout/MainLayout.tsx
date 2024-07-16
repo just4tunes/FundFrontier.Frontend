@@ -57,9 +57,9 @@ function MainLayout() {
         id="tradingview-widget-container"
         className="tradingview-widget-container z-10 relative"
       ></div>
-      <Header />
+      {/* <Header /> */}
       <Outlet />
-      <Footer />
+      {/* <Footer /> */}
     </>
   )
 }
