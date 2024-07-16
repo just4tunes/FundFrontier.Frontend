@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { useTransition, animated } from 'react-spring';
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 import Heroimg from "../../assets/herobackground.png";

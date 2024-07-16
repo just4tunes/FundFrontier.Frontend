@@ -1,4 +1,4 @@
-import React from "react";
+
 import Cardimg1 from "../../assets/cardimg1.svg";
 
 const Card1 = () => {

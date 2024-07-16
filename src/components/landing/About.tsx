@@ -1,4 +1,4 @@
-import React from "react";
+
 import Aboutimg1 from "../../assets/Aboutimg1.jpg";
 import Aboutimg2 from "../../assets/Aboutimg2.jpg";
 import { PiPhoneCallBold } from "react-icons/pi";

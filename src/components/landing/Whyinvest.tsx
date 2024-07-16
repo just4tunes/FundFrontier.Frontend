@@ -1,4 +1,4 @@
-import React from "react";
+
 import Card1 from "./Card1";
 
 const Whyinvest = () => {

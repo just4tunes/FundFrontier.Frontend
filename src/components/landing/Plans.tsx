@@ -1,7 +1,6 @@
-import React from "react";
+
 import Cardd1 from "../../assets/Cardd1";
 import Cardd2 from "../../assets/Cardd2";
-import Card3 from "../../assets/Cardd3"
 import Cardd3 from "../../assets/Cardd3";
 
 const Plans = () => {
