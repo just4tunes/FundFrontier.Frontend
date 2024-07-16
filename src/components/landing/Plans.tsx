@@ -23,7 +23,7 @@ const Plans = () => {
       <Cardd1/>
       <Cardd2/>
       <Cardd3/>
-      {/* <Cardd1/> */}
+    
       </div>
 
      
